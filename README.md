@@ -1,10 +1,25 @@
-# :wave: Le basi di GitHub 
+# Le basi di Git e di GitHub 
 
-## 🤓 Panoramica del corso e obiettivi di apprendimento 
+## Panoramica del corso e obiettivi di apprendimento 
 
-L’obiettivo di questo corso è offrirti una breve introduzione a GitHub. Ti forniremo anche materiali per approfondire e alcune idee per iniziare sulla nostra piattaforma. 🚀
+L’obiettivo di questo corso è offrirti una breve introduzione a Git e GitHub. Verranno forniti anche materiali per approfondire e alcune idee per iniziare sulla nostra piattaforma. 🚀
 
-## :octocat: Git e GitHub
+## 🖥️ Video Guida introduttiva a Git e a GitHub
+Qui trovi un corso completo di Git e GitHub
+
+[Git e GitHub da zero a ninja](https://www.youtube.com/playlist?list=PL9MslR9MhrJbO7u34sgR3J6iMqkFmVenG)
+
+Qui un video introduttivo alle principali funzionalità di Git e di GitHub
+
+[Corso Git e GitHub per principianti](https://www.youtube.com/watch?v=k22UaEkUAfU&t=19s)
+
+## 📝 Prossimi passi 
+
+* Crea un nuovo file markdown in questo repository. Fai sapere cosa hai imparato e cosa ti lascia ancora dei dubbi! Sperimenta con stili diversi!
+* Apri una pull request e fai sapere al docente che hai completato questo corso intruduttivo.  
+
+
+## :octocat: Git e GitHub - elementi principali
 
 Git è un **Sistema di Controllo di Versione distribuito (VCS)**, il che significa che è uno strumento utile per tracciare facilmente le modifiche al tuo codice, collaborare e condividere. Con Git puoi monitorare le modifiche apportate al tuo progetto, così avrai sempre una cronologia del lavoro svolto e potrai tornare facilmente a una versione precedente se necessario. Inoltre, rende più semplice lavorare con altri: gruppi di persone possono collaborare allo stesso progetto e unire le loro modifiche in un’unica versione finale!
 
@@ -86,14 +101,6 @@ Per saperne di più, leggi ["Following People"](https://docs.github.com/en/githu
 GitHub Explore è un ottimo posto per fare proprio questo... esplorare :smile: Puoi trovare nuovi progetti, eventi e sviluppatori con cui interagire.
 
 Puoi visitare GitHub Explore [su github.com/explore](https://github.com/explore). Più interagisci con GitHub, più la tua vista Explore sarà personalizzata in base ai tuoi interessi. 
-
-## 📝 Prossimi passi 
-
-* Apri una pull request e fai sapere al tuo insegnante che hai completato questo corso.  
-* Crea un nuovo file markdown in questo repository. Fai sapere cosa hai imparato e cosa ti lascia ancora dei dubbi! Sperimenta con stili diversi!
-* Crea il README del tuo profilo. Fai sapere al mondo qualcosa in più su di te! Cosa ti interessa imparare? A cosa stai lavorando? Qual è il tuo hobby preferito? Scopri di più su come creare il README del tuo profilo nel documento ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Vai alla dashboard del tuo utente e crea un nuovo repository. Sperimenta con le funzionalità presenti al suo interno per prendere familiarità con esse. 
-
 
 ## 📚 Risorse 
 * [Un breve video che spiega cos’è GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
